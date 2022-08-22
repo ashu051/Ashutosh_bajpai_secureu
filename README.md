@@ -5,4 +5,4 @@ Step 4 -> on command prompt python main.py</br>
 Step 5 -> let it run for a while it takes some time and all the results will be stored in txt file i have mentioned.</br> 
 </br>
 
-*** Main Thing line number 44 is the domain i have choose google.com type your specific domain please  and ctrl+s and then run python main.py . ***
+# Main Thing line number 44 is the domain i have choose google.com type your specific domain please  and ctrl+s and then run python main.py .
